@@ -1,6 +1,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Dongle:wght@300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Rubik+Moonrocks&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kalam&display=swap');
 
 
 body {
@@ -14,7 +15,7 @@ body {
     margin-top: 100px;
     float: left;
     margin-right: 250px;
-    margin-left: 100px;
+    margin-left: 150px;
 }
 
 .handphone {
@@ -133,7 +134,7 @@ body {
 .sambutan {
     text-align: center;
     font-weight: bold;
-    font-family: 'Luckiest Guy', cursive;
+    font-family: 'Kalam', cursive;
     color: white;
     font-size: 70px;
     letter-spacing: 20px;
@@ -145,7 +146,7 @@ body {
     font-size: 27px;
     font-weight: lighter;
     text-align: center;
-    margin-top: 200px;
+    margin-top: 150px;
 }
 
 
