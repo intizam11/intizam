@@ -1,0 +1,184 @@
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dongle:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Moonrocks&display=swap');
+
+
+body {
+    background-image: url(latar.jpg);
+}
+
+
+.kiri {
+    width: 700px;
+    height: 900px;
+    margin-top: 100px;
+    float: left;
+    margin-right: 250px;
+    margin-left: 100px;
+}
+
+.handphone {
+    width: 330px;
+    height: 650px;
+    border: 15px solid rgb(49, 42, 73);
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 90px;
+    box-shadow: 5px 5px 10px;
+    background-image: url(ssre.jpeg);
+    background-repeat: no-repeat;
+    position: relative;
+   
+}
+.dynamicisland {
+    height: 30px;
+    width: 100px;
+    background-color: black;
+    margin: auto;
+    border-radius: 50px;
+    margin-top: 20px;
+    box-sizing: border-box;
+    border: 3px solid rgb(31, 31, 31);
+}
+
+.sensor {
+    width: 15px;
+    height: 15px;
+    background-color: rgb(26, 26, 26);
+    border-radius: 10px;
+   
+}
+.camera {
+    width: 30px;
+    height: 15px;
+    background-color: rgb(26, 23, 23);
+    border-radius: 10px;
+    margin-top: 4px;
+    margin-left: 20px;
+   
+}
+
+.sensor,.camera {
+    display: inline-block;
+}
+
+.wa {
+    width: 300px;
+    height: 60px;
+    background-color: white;
+    position: absolute;
+    top: 300px;
+    left: 15px;
+    border-radius: 60px;
+    display: flex;
+}
+
+.wha {
+    height:50px;
+    width: 50px;
+    border-radius: 50px;
+    margin-left: 15px;
+    margin-top: 5px;
+}
+
+.intizam {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 15px;
+    margin-left: 10px;
+}
+.pesan {
+    position: absolute;
+    left: 80px;
+    top: 19px;
+    font-family: monospace;
+    font-weight: bold;
+}
+.waktu {
+    font-size: 60px;
+    position: relative;
+    left: -25px;
+    top: 0;
+    font-weight: bold;
+}
+
+.hari {
+    position: absolute;
+    left: 100px;
+    top: 150px;
+}
+
+.home {
+    height: 10px;
+    width: 200px;
+    background-color: white;
+    border-radius: 70px;
+    position: absolute;
+    bottom: 18px;
+    left: 70px;
+}
+
+
+
+/* BAGIAN KANAN */
+.kanan {
+    float: left;
+    margin-left: 170px;
+    width: 700px;
+    height: 600px;
+    margin-top: 250px;
+    box-sizing: border-box;
+   
+}
+
+.sambutan {
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Luckiest Guy', cursive;
+    color: white;
+    font-size: 70px;
+    letter-spacing: 20px;
+}
+
+.bacotan {
+    color: white;
+    font-family: 'Dongle', sans-serif;
+    font-size: 27px;
+    font-weight: lighter;
+    text-align: center;
+    margin-top: 200px;
+}
+
+
+
+/* BAGIAN KONTAK */
+.kontak {
+   
+    margin: auto;
+    width: 300px;
+    box-sizing: border-box;
+    display: flex;
+    margin-top: 100px;
+}
+
+
+
+
+
+.wame {
+    height: 40px;
+    width: 40px;
+
+}
+
+
+#nomer {
+    color: white;
+    padding-left: 10px;
+    font-family: 'Rubik Moonrocks', cursive;
+    letter-spacing: 3px;
+}
+#nomer a {
+    color: red;
+    text-decoration: none;
+}
+
